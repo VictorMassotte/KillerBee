@@ -70,8 +70,8 @@
               "browserTarget": "japon-suki-core-website:build",
               "proxyConfig": "proxy-config.json",
               "ssl": true,
-              "sslCert": "certweb.crt",
-              "sslKey": "certweb.key"
+              "sslCert": "C:\\Users\\masso\\itvm.crt",
+              "sslKey": "C:\\Users\\masso\\itvm.key"
           },
             "production": {
               "browserTarget": "KillerBeeApplication:build:production"

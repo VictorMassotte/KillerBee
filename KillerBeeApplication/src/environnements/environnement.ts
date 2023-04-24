@@ -4,8 +4,8 @@
 
 export const environment = {
     production: false,
-    //domain: 'http://192.168.248.128:3000/api/v1'
-    domain: 'http://localhost:3000/api/v1'
+    domain: 'http://192.168.248.128:3000/api/v1'
+    //domain: 'http://localhost:3000/api/v1'
   };
   
   /*
